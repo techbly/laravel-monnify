@@ -22,7 +22,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Triverla\\LaravelMonnify\\": "src"
+            "Techbly\\LaravelMonnify\\": "src"
         }
     },
     "authors": [
